@@ -1,13 +1,14 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
-  "description": "React need to be boiled first for us to use.",
-  "main": "index.js",
-  "author": "Thomi Aditya Alhakiim <thomiaditya@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "@babel/cli": "^7.17.0",
-    "@babel/core": "^7.17.0",
-    "@babel/preset-react": "^7.16.7"
-  }
+	"name": "react-boilerplate",
+	"version": "1.0.0",
+	"description": "React need to be boiled first for us to use.",
+	"main": "index.js",
+	"author": "Thomi Aditya Alhakiim <thomiaditya@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/cli": "^7.17.0",
+		"@babel/core": "^7.17.0",
+		"@babel/preset-env": "^7.16.11",
+		"@babel/preset-react": "^7.16.7"
+	}
 }
